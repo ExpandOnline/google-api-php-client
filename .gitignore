@@ -1,0 +1,2 @@
+# Ignores the config file containing login credentials
+src/config.php

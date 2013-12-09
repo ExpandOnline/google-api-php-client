@@ -1,0 +1,10 @@
+{
+    "name": "expandonline/google-api-php-client",
+	"description": "The Google API Client Library enables you to work with Google APIs such as Google+, Drive, Tasks, or Latitude on your server.",
+	"license": "Apache-2.0",
+	"require": {
+		"php": ">= 5.2.0",
+		"ext-curl": "*",
+		"ext-json": "*"
+	}
+}
